@@ -49,15 +49,15 @@
       text-shadow: 1px 1px #000;
     }
     .title{
-        font-size: larger;
+        font-size: 1.5rem;
         color:rgb(104, 175, 228);
     }
     .description{
-        font-size: large;
+        font-size: 1rem;
         text-shadow:none;
     }
     .last{
-        font-size: xx-large;
+        font-size: 2rem;
         border-radius: 10px;
         border: 1px solid;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);

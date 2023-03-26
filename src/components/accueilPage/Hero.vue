@@ -45,7 +45,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
     color: #fff;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
     text-shadow: 1px 1px #000;
