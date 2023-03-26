@@ -12,7 +12,7 @@
       <p>{{ item.title1 }}</p>
       <p>{{ item.title2 }}</p>
     </div>
-  div>
+
   </v-img>
 </template>
   
