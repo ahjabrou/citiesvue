@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat';
+}
+h2{
+    color:rgb(104, 175, 228);
+}
+p{
+    font-weight: bold;
+}
+.item-title{
+    font-size:large;
+    color:white; 
+    border: 1px solid rgb(104, 175, 228);
+    border-radius: 5%; 
+    background-color:rgb(104, 175, 228); 
+    opacity:0.7;
+}
